@@ -1,6 +1,6 @@
 ## Description
 
-This is the supplementary code repo for the paper "Learning Syntax from Naturally-Occurring Bracketings" (NAACL 2021).
+This is the supplementary code repo for the paper ["Learning Syntax from Naturally-Occurring Bracketings" (NAACL 2021)](https://www.aclweb.org/anthology/2021.naacl-main.234.pdf).
 
 ## Dependencies
 
